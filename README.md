@@ -1,5 +1,4 @@
 # PasswordManager
 c# password manager
 
-![изображение](https://github.com/hexsparky/PasswordManager/assets/111631956/26d09e99-b4df-4812-8916-6fb6efb2adc5)
-
+![image](https://github.com/hexsparky/PasswordManager/assets/111631956/6939eb91-d3d4-4580-a294-9817d71a5a1a)
